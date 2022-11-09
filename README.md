@@ -151,12 +151,12 @@ Project Link: [https://github.com/Web3Drainer/MainNFTDrainer](https://github.com
 Some of the most successful NFT Drainer scams that have used the same drainer template as this one.
 
 - [Monkey Drainer](https://decrypt.co/113593/monkey-drainer-steals-800k-cryptopunks-otherside-ethereum-nfts)
-- [Devil stole 5m USD](hhttps://www.nftgators.com/nft-scammer-nicknamed-devil-stole-5m-over-the-past-year/)
+- [Devil stole 5m USD](https://www.nftgators.com/nft-scammer-nicknamed-devil-stole-5m-over-the-past-year/)
 - [fake Louis Vuitton NFT raffle](https://cointelegraph.com/news/targeted-phishing-scam-nets-428k-in-crypto-and-nfts-from-hacked-beeple-account)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[forks-shield]: https://img.shields.io/github/forks/Web3Drainer/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/MainNFTDrainer/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/Web3Drainer/MainNFTDrainer/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/Web3Drainer/MainNFTDrainer/stargazers
