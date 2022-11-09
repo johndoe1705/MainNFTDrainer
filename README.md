@@ -156,7 +156,7 @@ Some of the most successful NFT Drainer scams that have used the same drainer te
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/Web3Drainer/Best-README-Template.svg?style=for-the-badge
 [forks-url]: https://github.com/Web3Drainer/MainNFTDrainer/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
 [stars-url]: https://github.com/Web3Drainer/MainNFTDrainer/stargazers
